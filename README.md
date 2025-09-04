@@ -6,7 +6,7 @@
 ## 🚀 Sobre Mi
 - 🌱 Me encuentro estudiando una **Tecnicatura Superior en Diseño y Programación Web**
 - 💼 Tengo experiencia en **HTML**, **CSS** y **JavaScript**
-- 🎯 Mi objetivos es crear webs responsive, accesibles y eficientes, y a su vez apps.
+- 🎯 Mi objetivo es crear webs responsive, accesibles y eficientes, y a su vez apps.
 
 <br>
 
